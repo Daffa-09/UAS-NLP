@@ -21,12 +21,11 @@ Membuat sistem diagnosa kerusakan komputer berbasis AI
 Menerapkan LLM lokal menggunakan Ollama
 Mengimplementasikan workflow AI menggunakan LangGraph
 
-![Halaman Utama](screenshots/home.png)
+![Halaman Utama](screenshoots/home.png)
 
-![Input Gejala](screenshots/input.png)
+![Input Gejala](screenshoots/input.png)
 
-![Hasil Diagnosa](screenshots/result.png)
-Menyediakan solusi troubleshooting secara otomatis
+![Hasil Diagnosa](screenshoots/result.png)
 
 
 
