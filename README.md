@@ -20,6 +20,12 @@ Ollama (Qwen2.5:3B)
 Membuat sistem diagnosa kerusakan komputer berbasis AI
 Menerapkan LLM lokal menggunakan Ollama
 Mengimplementasikan workflow AI menggunakan LangGraph
+
+![Halaman Utama](screenshots/home.png)
+
+![Input Gejala](screenshots/input.png)
+
+![Hasil Diagnosa](screenshots/result.png)
 Menyediakan solusi troubleshooting secara otomatis
 
 
