@@ -27,7 +27,8 @@ Mengimplementasikan workflow AI menggunakan LangGraph
 
 ![Hasil Diagnosa](screenshoots/result.png)
 
-#CARA RUNNING
+CARA RUNNING
+
 Jalankan Streamlit
 
 streamlit run app.py
