@@ -1,5 +1,6 @@
 # UAS-NLP
 💻 AI Diagnosa Kerusakan Komputer
+
 📌 Detail Proyek
 
 Proyek ini merupakan aplikasi berbasis Artificial Intelligence (AI) yang digunakan untuk membantu mendiagnosa kerusakan komputer berdasarkan gejala yang dimasukkan oleh pengguna. Sistem ini memanfaatkan Large Language Model (LLM) Qwen2.5:3B yang dijalankan secara lokal menggunakan Ollama.
@@ -14,8 +15,12 @@ Streamlit
 LangChain
 LangGraph
 Ollama (Qwen2.5:3B)
+
 🎯 Tujuan
 Membuat sistem diagnosa kerusakan komputer berbasis AI
 Menerapkan LLM lokal menggunakan Ollama
 Mengimplementasikan workflow AI menggunakan LangGraph
 Menyediakan solusi troubleshooting secara otomatis
+
+
+
