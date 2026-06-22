@@ -1,0 +1,85 @@
+gejala,kerusakan,solusi,jurnal
+tidak bisa nyala,power supply rusak,cek adaptor atau ganti PSU,Computer Hardware Journal 2023
+laptop mati total,baterai rusak,ganti baterai,Hardware Failure Study 2022
+layar hitam,RAM bermasalah,lepas pasang RAM,System Memory Journal 2021
+blue screen,driver error,update driver,Microsoft Stability Report 2023
+laptop panas,kipas kotor,bersihkan kipas,Thermal Management Study 2021
+restart sendiri,overheating CPU,ganti thermal paste,CPU Thermal Journal 2020
+lemot,harddisk penuh,bersihkan storage,System Performance Journal 2022
+lemot SSD rusak,ganti SSD,Storage Reliability Journal 2023
+wifi tidak konek,driver wifi rusak,update driver,Network Journal 2023
+tidak ada suara,driver audio error,reinstall driver,Audio System Journal 2021
+keyboard tidak berfungsi,driver keyboard error,reinstall driver,HID Device Study 2021
+mouse tidak jalan,port USB rusak,cek port USB,USB Hardware Journal 2022
+layar bergaris,kabel fleksibel rusak,ganti kabel layar,Display Hardware Study 2022
+layar blank GPU error,cek VGA,Graphics Journal 2023
+tidak booting,boot sector rusak,repair boot,OS Boot Journal 2021
+bios error,setting BIOS salah,reset BIOS,Firmware Journal 2022
+tidak detect HDD,kabel SATA rusak,cek kabel SATA,Storage Hardware Journal 2022
+fan berisik,kotoran di kipas,bersihkan fan,Cooling System Journal 2021
+charger tidak masuk,port charging rusak,servis port,Power System Journal 2023
+baterai cepat habis,baterai soak,ganti baterai,Battery Study 2022
+blue screen acpi,error sistem,install ulang OS,OS Stability Journal 2023
+error windows,corrupt system file,repair windows,Windows Repair Journal 2022
+freeze saat boot,RAM tidak stabil,tes RAM,Memory Stability Journal 2021
+tidak bisa install aplikasi,storage penuh,hapus file,System Storage Journal 2022
+aplikasi crash,ram kurang,tambah RAM,Performance Journal 2023
+internet lambat,sinyal lemah,cek jaringan,Network Signal Journal 2022
+wifi putus-putus,router bermasalah,reset router,Networking Journal 2021
+tidak bisa login windows,password salah,reset password,Security Journal 2022
+laptop hang,CPU overload,tutup aplikasi berat,CPU Usage Journal 2023
+kipas tidak berputar,fan rusak,ganti fan,Cooling Hardware Journal 2021
+layar tidak full,driver display error,update driver display,Graphics Driver Journal 2022
+port USB tidak berfungsi,kerusakan motherboard,servis motherboard,Motherboard Journal 2023
+tidak bisa charge,IC charging rusak,servis IC,Power IC Journal 2022
+tidak ada display,GPU rusak,ganti GPU,Graphics Hardware Journal 2023
+restart saat main game,overheat GPU,turunkan setting game,Gaming Hardware Journal 2022
+lag saat multitasking,RAM kurang,tambah RAM,Memory Optimization Journal 2021
+suara noise,speaker rusak,ganti speaker,Audio Hardware Journal 2021
+kamera tidak aktif,driver kamera error,update driver camera,Camera Device Journal 2022
+bluetooth tidak konek,driver bluetooth error,update driver,Bluetooth Journal 2023
+touchpad tidak jalan,driver touchpad error,reinstall driver,Touchpad Journal 2022
+layar redup,backlight rusak,servis backlight,Display Backlight Journal 2021
+boot lama,harddisk lambat,ganti SSD,Storage Speed Journal 2023
+aplikasi tidak terbuka,OS error,repair OS,System OS Journal 2022
+file hilang,corrupt storage,recover data,Data Recovery Journal 2023
+virus komputer,terinfeksi malware,install antivirus,Security Malware Journal 2023
+tidak bisa update windows,update error,reset update,Windows Update Journal 2022
+internet disconnect,ISP bermasalah,hubungi ISP,ISP Network Journal 2023
+laptop tidak responsif,CPU tinggi,cek task manager,System Monitor Journal 2022
+layar flicker,refresh rate salah,ubah refresh rate,Display Journal 2021
+audio delay,driver audio error,update driver audio,Audio Sync Journal 2022
+touchscreen tidak respon,driver touchscreen error,reinstall driver,Touchscreen Journal 2023
+keyboard delay,USB delay,cek USB controller,USB Input Journal 2022
+pc tidak POST,hardware gagal boot,cek RAM dan PSU,POST Hardware Journal 2023
+bios tidak masuk,CMOS error,reset CMOS,Firmware Journal 2022
+gpu artifact,GPU rusak,ganti GPU,Graphics Failure Journal 2023
+pc restart random,PSU tidak stabil,ganti PSU,Power Stability Journal 2022
+fan laptop panas,debu menumpuk,cleaning fan,Cooling Journal 2021
+laptop mati saat gaming,overheat GPU,kurangi beban GPU,Gaming Thermal Journal 2023
+lag internet game,ping tinggi,gunakan LAN,Game Network Journal 2022
+aplikasi berat crash,ram penuh,tambah RAM,Memory Journal 2021
+windows tidak boot bootloader rusak,repair bootloader,Bootloader Journal 2022
+error dll,missing file system,repair system,System File Journal 2023
+tidak bisa copy file,storage error,cek disk,Disk Journal 2021
+file corrupt,harddisk error,ganti storage,Storage Failure Journal 2022
+tidak bisa shutdown,system hang,force shutdown,System Power Journal 2023
+laptop tidak detect charger,port charger rusak,servis port,Charging Journal 2022
+bluetooth delay,driver lama,update driver,Bluetooth Performance Journal 2021
+wifi tidak stabil,router jauh,pindah posisi router,Network Stability Journal 2022
+cpu 100%,background app,tutup aplikasi,CPU Load Journal 2023
+gpu panas,thermal paste kering,ganti thermal paste,GPU Thermal Journal 2022
+ram usage tinggi,banyak aplikasi,tutup aplikasi,RAM Usage Journal 2021
+disk 100%,windows indexing,disable indexing,System Disk Journal 2023
+audio pecah,speaker rusak,ganti speaker,Audio Quality Journal 2022
+tidak bisa install game,storage kurang,bersihkan storage,Game Install Journal 2023
+fps drop,gpu overload,turunkan setting,Game Performance Journal 2022
+pc bunyi beep error,ram error,cek ram,BIOS Beep Journal 2021
+monitor no signal,kabel VGA rusak,ganti kabel VGA,Display Signal Journal 2022
+usb tidak terbaca,driver USB error,reinstall driver,USB Journal 2023
+laptop restart loop,windows error,repair windows loop,Windows Loop Journal 2022
+boot stuck logo,system crash,repair OS,Boot Journal 2023
+internet tidak ada dns,dns error,ubah dns,Network DNS Journal 2022
+wifi login error,captive portal error,login ulang,Network Portal Journal 2021
+aplikasi lambat start,storage lambat,ganti SSD,Startup Journal 2023
+bluetooth tidak terdeteksi,hardware off,aktifkan bluetooth,Bluetooth Hardware Journal 2022
